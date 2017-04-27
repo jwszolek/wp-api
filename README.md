@@ -22,4 +22,4 @@ Change MySQL Authorisation settings in Routers/*
 ## TODO
 * Cover more MYSQL tables with Web-API
 * Keep connection details in one central place
-
+* Travis CI needs to be added
