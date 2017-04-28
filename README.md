@@ -1,4 +1,4 @@
-# wp-api
+# wp-api [![Build Status](https://travis-ci.org/jwszolek/wp-api.svg?branch=master)](https://travis-ci.org/jwszolek/wp-api)
 Wordpress API based on nodejs. This is a simple nodeJS project that allows you to communicate with wordpress(https://wordpress.com/) over WebAPI.
 The purpose of that project was to get some knowledge about building communication between MySQL and NodeJS.
 
